@@ -1,0 +1,24 @@
+#menu ul
+{
+    list-style-type:none;
+}
+#menu ul li
+{
+display:inline;
+padding:10px;
+}
+#menu ul li a
+{
+text-decoration:none;
+color:#535353;
+}
+#menu ul li a:hover{
+color:#0082bf;;
+}
+#menu input[type=text] {
+  float: left;
+  border: none;
+  margin-top: 8px;
+  margin-right: 600px;
+  font-size: 17px;
+}

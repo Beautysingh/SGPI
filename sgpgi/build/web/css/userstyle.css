@@ -1,0 +1,127 @@
+#outer{
+   width:1000px;
+   height:auto;
+   min-height: 1200px; 
+   border-radius: 20px;
+   margin-left:40px; 
+   border: 1px solid;
+  }
+  #user_menu
+  {
+      width:1000px;
+      height:50px;
+      background-color: cyan;
+      border-radius: 20px 20px 0px 0px;
+  }
+  #user_menu ul
+  {
+      list-style-type: none;
+  }
+  #user_menu ul li
+  {
+      display: inline-block;
+      padding: 20px;
+      font-size: 20px
+      
+      
+  }
+  #user_menu ul li a
+  {
+      text-decoration: none;
+      color: red;
+  }
+  #user_menu ul li a:hover
+  {
+      color: yellow;
+  }
+  #user_header
+  {
+      width: 1000px;
+      height: 150px;
+      margin-top:5px; 
+   }
+   #user_logo
+   {
+       width: 150px;
+       height: 150px;
+       background-color: pink;
+           float:left;
+   }
+   #sitetitle
+   {
+       width: 850px;
+       height: 130px;
+       background-color: navy;
+       color: white;
+       float:right;
+       text-align: center;
+       font-size: 80px;
+       font-weight: bold;
+       font-family: sans-serif;
+       padding-top: 20px;
+    }
+    #info
+    {
+        width: 1000px;
+        height: 80px;
+        margin-top: 5px;
+        background-color: black;
+    }
+    #date
+    {
+        width: 500px;
+        height: 80px;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 20px;
+        float: left;
+        color: white;
+     }
+     #name
+    {
+        width: 500px;
+        height: 80px;
+        text-align: center;
+        font-size: 30px;
+        padding-top: 20px;
+        float: left;
+        color: white;
+     }
+     #user_container
+     {
+         margin-top:5px;
+         width: 1000px;
+         min-height: 700px;
+         height: auto;
+         background-color: peachpuff;
+         border: 1px solid white;
+        }
+        #user_footer{
+            width: 1000px;
+            height: 100px;
+            margin-top: 5px;
+       }
+       #copyright
+       {
+           width: 500px;
+           height: 100px;
+           font-size: 40px;
+           padding-top: 20px;
+           text-align: center;
+           color: white;
+           background-color:black;
+           border-radius: 0px 0xp 0xp 20px;
+           float: left;
+       }
+       #developedby
+       {
+           width: 500px;
+           height: 100px;
+           font-size: 40px;
+           padding-top: 20px;
+           text-align: center;
+           color: white;
+           background-color:navy;
+           border-radius: 0px 0xp 20xp 0px;
+           float: left;
+       }
